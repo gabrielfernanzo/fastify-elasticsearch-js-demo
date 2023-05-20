@@ -7,7 +7,7 @@
   "type": "commonjs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gabrielFernandes-dev/fastify-elk-js-demo"
+    "url": "https://github.com/gabrielFernandes-dev/fastify-elasticsearch-js-demo"
   },
   "keywords": [
     "node.js",
